@@ -1,0 +1,17 @@
+{
+  "name": "price-broadcaster-review",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Recruitment task: code review",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^22.20.4",
+    "typescript": "^7.0.2"
+  }
+}
